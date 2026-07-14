@@ -1,101 +1,101 @@
 Rank,Word,CEFR,PartOfSpeech,IPA_UK,Chinese,Collocation,Example_EN,Example_CN,Synonym,Antonym,MemoryTip
-1,about,A1,prep.; adv.,/əˈbaʊt/,关于；大约；到处,talk about;about time;think about,We talked about our weekend plans after lunch.,午饭后我们聊了周末的计划。,regarding;around,exactly,about 可记成 a + bout：绕着一件事转一圈。
-2,above,A1,prep.; adv.,/əˈbʌv/,在……上面；高于,above average;above all;rise above,The clock hangs above the classroom door.,时钟挂在教室门的上方。,over;beyond,below;under,a-bove：把 bove 想成“高处的位置”。
-3,across,A1,prep.; adv.,/əˈkrɒs/,穿过；在对面,across the road;come across;walk across,She walked across the quiet street carefully.,她小心地走过那条安静的街道。,over;through,along,across = a + cross，像从十字路口穿过去。
-4,act,A1,verb; noun,/ækt/,行动；表演；行为,act quickly;act as;in the act,Please act quickly if you hear the alarm.,若听到警报，请迅速行动。,behave;perform,pause;idle,act 很短，像舞台上一声令下就开始演。
-5,activity,A1,noun,/ækˈtɪvəti/,活动；行动,outdoor activity;after-school activity;group activity,The school plans a new outdoor activity this Friday.,学校计划本周五开展新的户外活动。,event;pursuit,inactivity,activity 来自 active：保持活跃就会有活动。
-6,actor,A1,noun,/ˈæktə(r)/,男演员；演员,film actor;lead actor;become an actor,He wants to become a film actor one day.,他希望有一天成为电影演员。,performer;player,audience,actor = act + or，做表演动作的人。
-7,add,A1,verb,/æd/,添加；增加,add sugar;add up;add to,Please add a little sugar to my tea.,请往我的茶里加点糖。,include;increase,remove;subtract,add 像往杯子里再倒一点进去。
-8,address,A1,noun; verb,/əˈdres/,地址；演说；处理,home address;email address;address a problem,Please write your home address on this form.,请在这张表格上填写家庭住址。,location;speech,ignore,address 可记：寄信一定要写对地址。
-9,adult,A1,noun; adj.,/ˈædʌlt/,成年人；成年的,young adult;adult ticket;adult life,Only an adult can buy the cinema tickets tonight.,今晚只有成年人可以买电影院的票。,grown-up,child;kid,adult 与 child 相对，想到“长大了”。
-10,afraid,A1,adj.,/əˈfreɪd/,害怕的；担心的,afraid of;be afraid;feel afraid,The little boy is afraid of the dark room.,小男孩害怕那间黑暗的房间。,scared;worried,brave;confident,a-fraid：心里发“fra”抖的感觉。
-11,after,A1,prep.; conj.; adv.,/ˈɑːftə(r)/,在……之后,after school;after that;look after,We usually play football after school.,我们通常放学后踢足球。,following;later,before,after 和 afternoon 同源：午后就是 after noon。
-12,afternoon,A1,noun,/ˌɑːftəˈnuːn/,下午,this afternoon;in the afternoon;good afternoon,Shall we meet this afternoon at the library?,我们今天下午在图书馆见面好吗？,pm,morning,after + noon：中午之后就是下午。
-13,again,A1,adv.,/əˈɡen/,再一次；又,try again;once again;come again,Could you say that again more slowly?,你能再说一遍、慢一点吗？,once more;anew,never,again 像回声，事情又来一遍。
-14,age,A1,noun,/eɪdʒ/,年龄；时代,at the age of;old age;age group,She started piano lessons at the age of six.,她六岁开始学钢琴。,years;era,youth,age 很短，记住“几岁”就是 age。
-15,ago,A1,adv.,/əˈɡəʊ/,以前,years ago;long ago;a week ago,I met her at a party two years ago.,两年前我在一次聚会上遇见她。,previously;before,henceforth,a-go：时间已经走远了。
-16,agree,A1,verb,/əˈɡriː/,同意；达成一致,agree with;agree to;agree on,I agree with your idea about the trip.,我同意你关于这次旅行的想法。,accept;consent,disagree;refuse,agree 里有 gree，像 green 一样“谈妥了很顺”。
-17,air,A1,noun,/eə(r)/,空气；空中,fresh air;by air;in the air,Let's open the window for some fresh air.,我们开窗透透新鲜空气吧。,atmosphere;breeze,ground,air 读起来轻飘飘，像空气。
-18,airport,A1,noun,/ˈeəpɔːt/,机场,at the airport;airport taxi;international airport,We will meet you at the airport tomorrow morning.,我们明天早上在机场接你。,airfield;terminal,harbour,air + port：空中的港口就是机场。
-19,all,A1,det.; pron.; adv.,/ɔːl/,全部；所有,all day;all of;above all,They spent all day cleaning the flat.,他们花了一整天打扫公寓。,every;entire,none;some,all 开口很大，像把一切都包进去。
-20,almost,A1,adv.,/ˈɔːlməʊst/,几乎；差不多,almost ready;almost always;almost there,"Dinner is almost ready, so please wash your hands.",晚饭差不多好了，请去洗手。,nearly;practically,completely;exactly,almost = all + most：还差一点点就全部。
-21,alone,A1,adj.; adv.,/əˈləʊn/,独自的；单独地,live alone;leave alone;feel alone,She prefers to study alone in the quiet room.,她更喜欢在安静的房间里独自学习。,solo;lonely,together,alone 与 along 易混：alone 是一个人。
-22,along,A1,prep.; adv.,/əˈlɒŋ/,沿着；一起,along the river;come along;walk along,We walked along the river after dinner.,晚饭后我们沿着河边散步。,beside;onward,across,a-long：顺着一条长线往前走。
-23,already,A1,adv.,/ɔːlˈredi/,已经,already know;already done;have already,I have already finished my homework today.,我今天已经做完作业了。,previously;by now,not yet,al-ready：已经准备好了。
-24,also,A1,adv.,/ˈɔːlsəʊ/,也；同样,also like;not only...also;can also,She can also speak a little French.,她也会说一点法语。,too;as well,neither,also 放句中，表示“另外还有”。
-25,always,A1,adv.,/ˈɔːlweɪz/,总是；永远,always late;always remember;almost always,He always drinks coffee in the morning.,他早上总是喝咖啡。,forever;constantly,never;rarely,all + ways：所有路上都会发生。
-26,and,A1,conj.,/ænd/,和；并且,bread and butter;and then;come and see,Please buy bread and milk on your way home.,回家路上请买面包和牛奶。,plus;as well as,or;but,and 像连接两节火车车厢。
-27,angry,A1,adj.,/ˈæŋɡri/,生气的,angry with;get angry;angry about,Don't get angry with him about the mistake.,别为这个错误对他生气。,mad;annoyed,calm;pleased,angry 发音里有 ang，像心里拧着。
-28,animal,A1,noun,/ˈænɪml/,动物,wild animal;farm animal;animal hospital,The children love looking at farm animals.,孩子们喜欢看农场里的动物。,creature;beast,plant,animal 可拆成 ani-mal，想到活物。
-29,another,A1,det.; pron.,/əˈnʌðə(r)/,另一个；再一,another day;one another;another one,"Could I have another cup of tea, please?",请再给我一杯茶好吗？,additional;other,same,an + other：另外一个 other。
-30,answer,A1,noun; verb,/ˈɑːnsə(r)/,答案；回答,answer the phone;give an answer;correct answer,Please answer the phone when it rings.,电话铃响时请接一下。,reply;response,question;ask,answer 对 question：问完就要答。
-31,any,A1,det.; pron.; adv.,/ˈeni/,任何；一些（否定/疑问）,any questions;anyone;not any,Do you have any questions about the lesson?,关于这节课你有什么问题吗？,some;whatever,none,any 在问句里常表“有没有一些”。
-32,anyone,A1,pron.,/ˈeniwʌn/,任何人,anyone else;anyone can;if anyone,Anyone can join the club after school.,放学后任何人都可以加入这个俱乐部。,anybody;whoever,no one,any + one：任意某一个人。
-33,anything,A1,pron.,/ˈeniθɪŋ/,任何事物,anything else;not anything;say anything,Is there anything else you need from the shop?,你还需要从店里买别的东西吗？,something;whatever,nothing,any + thing：任意一件东西。
-34,apple,A1,noun,/ˈæpl/,苹果,red apple;apple juice;apple pie,She packed a red apple in her lunch box.,她在午餐盒里放了一个红苹果。,fruit,,apple 很常见，想到苹果手机也容易记。
-35,April,A1,noun,/ˈeɪprəl/,四月,in April;early April;April weather,Her birthday is in early April this year.,她今年的生日在四月初。,month,,A-pril：春天四月的 A 开头月份。
-36,area,A1,noun,/ˈeəriə/,地区；面积；领域,local area;play area;in the area,There is a new park in our local area.,我们本地新开了一座公园。,region;zone,point,area 像一片开阔地带。
-37,arm,A1,noun,/ɑːm/,手臂；扶手,left arm;arm in arm;break an arm,He hurt his left arm during the football match.,他在足球比赛中伤了左臂。,limb,,arm 短，抬起手臂就能感觉到。
-38,around,A1,adv.; prep.,/əˈraʊnd/,周围；大约,look around;around the city;around six,We walked around the city for two hours.,我们在城里转了两个小时。,about;nearby,straight,a-round：绕着圆圈走。
-39,arrive,A1,verb,/əˈraɪv/,到达,arrive at;arrive in;arrive home,The train will arrive at the station at noon.,火车将在中午到达车站。,reach;come,leave;depart,arrive 与 leave 相对：到站 vs 离站。
-40,art,A1,noun,/ɑːt/,艺术；美术,art class;modern art;work of art,She takes an art class every Wednesday.,她每周三上美术课。,painting;craft,,art 短而响亮，像画室里的一声。
-41,ask,A1,verb,/ɑːsk/,问；请求,ask a question;ask for;ask about,You can ask the teacher if you need help.,需要帮助时可以问老师。,enquire;request,answer;tell,ask 嘴一张就发出请求。
-42,at,A1,prep.,/æt/,在；朝；以,at home;at school;look at,I usually have breakfast at home.,我通常在家吃早餐。,in;by,,at 点状位置：在某一点。
-43,August,A1,noun,/ˈɔːɡəst/,八月,in August;late August;August holiday,We usually travel in late August.,我们通常在八月下旬旅行。,month,,August 像夏天尾巴的月份。
-44,aunt,A1,noun,/ɑːnt/,姑妈；姨妈；婶婶,my aunt;aunt and uncle;visit my aunt,My aunt lives near the train station.,我姨妈住在火车站附近。,relative,,aunt 与 uncle 成对记。
-45,autumn,A1,noun,/ˈɔːtəm/,秋天（英式）,in autumn;autumn leaves;autumn term,The leaves turn brown in autumn.,秋天树叶变成褐色。,fall;season,spring,英式用 autumn，美式常说 fall。
-46,away,A1,adv.,/əˈweɪ/,离开；不在,go away;far away;put away,Please put your books away after class.,下课后请把书收好。,off;absent,here;near,a-way：走向远处。
-47,baby,A1,noun,/ˈbeɪbi/,婴儿；宝贝,new baby;baby brother;baby food,Their new baby sleeps most of the day.,他们的新生儿白天大多在睡觉。,infant;child,adult,baby 叠音可爱，像哄孩子。
-48,back,A1,noun; adv.; adj.,/bæk/,背；后面；回来,come back;at the back;back door,Please come back before it gets dark.,请在天黑前回来。,rear;return,front;forward,back 既是背，也是往回走。
-49,bad,A1,adj.,/bæd/,坏的；糟糕的,bad news;bad weather;feel bad,We cancelled the picnic because of bad weather.,因为天气不好，我们取消了野餐。,poor;awful,good;fine,bad 与 good 成对记。
-50,bag,A1,noun,/bæɡ/,包；袋子,school bag;plastic bag;bag of,She put the apples in a plastic bag.,她把苹果装进塑料袋。,sack;pack,,bag 短促，像把东西装进去。
-51,ball,A1,noun,/bɔːl/,球,kick a ball;ball game;tennis ball,The children kicked a ball in the park.,孩子们在公园里踢球。,sphere,,ball 圆圆的，发音也圆。
-52,banana,A1,noun,/bəˈnɑːnə/,香蕉,ripe banana;banana milkshake;eat a banana,He eats a banana after morning exercise.,晨练后他会吃一根香蕉。,fruit,,ba-na-na 三个音节，像弯弯的香蕉。
-53,band,A1,noun,/bænd/,乐队；带子,rock band;school band;wrist band,Their school band will play at the festival.,他们的校乐队将在节日演出。,group;strap,,band 可记成一群人绑在一起演奏。
-54,bank,A1,noun,/bæŋk/,银行；岸,bank account;river bank;at the bank,I need to go to the bank this afternoon.,我今天下午需要去银行。,shore;lender,,bank 存钱，也可指河岸。
-55,bath,A1,noun,/bɑːθ/,洗澡；浴缸,have a bath;bath time;run a bath,She likes to have a bath after a long day.,忙完漫长的一天后她喜欢洗个澡。,wash;tub,shower,bath 英式常说 have a bath。
-56,bathroom,A1,noun,/ˈbɑːθruːm/,浴室；卫生间,bathroom door;in the bathroom;shared bathroom,The bathroom is at the end of the hall.,浴室在走廊尽头。,toilet;washroom,,bath + room：洗澡的房间。
-57,be,A1,verb,/biː/,是；在；成为,be careful;be quiet;will be,Please be quiet during the exam.,考试时请保持安静。,exist;become,,be 是最基础的“是/在”。
-58,beach,A1,noun,/biːtʃ/,海滩,sandy beach;at the beach;beach holiday,We spent the whole day at the sandy beach.,我们在沙滩上待了一整天。,shore;seaside,inland,beach 有 ea，像海浪的声音。
-59,beautiful,A1,adj.,/ˈbjuːtɪfl/,美丽的,beautiful day;beautiful view;look beautiful,It is a beautiful day for a long walk.,今天适合好好散个步，天气真美。,pretty;lovely,ugly,beauty + ful：充满美。
-60,because,A1,conj.,/bɪˈkɒz/,因为,because of;just because;because I,I stayed home because I felt tired.,我待在家里，因为我觉得累了。,since;as,although,be-cause：事情的原因。
-61,become,A1,verb,/bɪˈkʌm/,变成；成为,become a teacher;become angry;become clear,She hopes to become a doctor in future.,她希望将来成为一名医生。,turn into;grow,remain,be + come：变成某种样子到来。
-62,bed,A1,noun,/bed/,床,go to bed;in bed;make the bed,Please make the bed before you leave.,出门前请把床整理好。,bunk;cot,,bed 短，晚上就回到 bed。
-63,bedroom,A1,noun,/ˈbedruːm/,卧室,my bedroom;bedroom window;shared bedroom,His bedroom window looks onto the garden.,他卧室的窗户朝向花园。,chamber,,bed + room：放床的房间。
-64,beer,A1,noun,/bɪə(r)/,啤酒,a glass of beer;cold beer;drink beer,He ordered a cold beer with his meal.,他点餐时要了一杯冰啤酒。,ale;lager,,beer 双 e，像泡沫升起。
-65,before,A1,prep.; conj.; adv.,/bɪˈfɔː(r)/,在……之前,before school;the day before;before long,Brush your teeth before you go to bed.,睡觉前请刷牙。,prior to;earlier,after,be-fore：站在时间前面。
-66,begin,A1,verb,/bɪˈɡɪn/,开始,begin with;begin to;begin work,The film will begin in ten minutes.,电影十分钟后开始。,start;commence,end;finish,begin 与 end 成对。
-67,behind,A1,prep.; adv.,/bɪˈhaɪnd/,在……后面,behind the door;fall behind;leave behind,The cat is hiding behind the door.,猫藏在门后面。,after;rear,in front of,be-hind：在后边。
-68,believe,A1,verb,/bɪˈliːv/,相信；认为,believe in;hard to believe;believe that,I believe that we can finish this today.,我相信我们今天能完成这件事。,trust;think,doubt;deny,believe 里有 lie，但意思是相信而非撒谎——注意区分。
-69,below,A1,prep.; adv.,/bɪˈləʊ/,在……下面；低于,below zero;see below;below average,Temperatures may fall below zero tonight.,今晚气温可能降到零度以下。,under;beneath,above,be-low：位置偏低。
-70,belt,A1,noun,/belt/,腰带；地带,seat belt;leather belt;green belt,Please fasten your seat belt before we leave.,出发前请系好安全带。,strap;zone,,belt 系在腰上，seat belt 系在座位上。
-71,best,A1,adj.; adv.; noun,/best/,最好的；最好地,best friend;do your best;the best,She is my best friend at school.,她是我学校里最好的朋友。,finest;top,worst,good → better → best。
-72,better,A1,adj.; adv.,/ˈbetə(r)/,更好的；更好地,feel better;better than;get better,I feel better after a short rest.,休息一会儿后我感觉好多了。,improved;superior,worse,better 是 good 的比较级。
-73,between,A1,prep.; adv.,/bɪˈtwiːn/,在……之间,between jobs;between us;choose between,The shop is between the bank and the cafe.,那家店在银行和咖啡馆之间。,among;amid,outside,be-tween：夹在两边中间。
-74,bicycle,A1,noun,/ˈbaɪsɪkl/,自行车,ride a bicycle;bicycle lane;by bicycle,He rides a bicycle to school every day.,他每天骑自行车上学。,bike;cycle,car,bi + cycle：两个轮子转起来。
-75,big,A1,adj.,/bɪɡ/,大的,big city;big problem;big smile,London is a big city with many parks.,伦敦是一座有很多公园的大城市。,large;huge,small;little,big 口型张大，像“大”。
-76,bike,A1,noun,/baɪk/,自行车；摩托车（口语）,ride a bike;bike ride;new bike,We went for a bike ride by the lake.,我们沿着湖边骑车兜风。,bicycle;cycle,,bike 是 bicycle 的短说法。
-77,bird,A1,noun,/bɜːd/,鸟,singing bird;bird song;wild bird,A small bird was singing outside my window.,一只小鸟在我窗外唱歌。,fowl,,bird 飞翔，b 像振翅。
-78,birthday,A1,noun,/ˈbɜːθdeɪ/,生日,happy birthday;birthday party;birthday cake,We baked a cake for her birthday party.,我们为她的生日聚会烤了蛋糕。,anniversary,,birth + day：出生的那一天。
-79,black,A1,adj.; noun,/blæk/,黑色的；黑色,black coffee;black hair;in black,He always drinks black coffee in the morning.,他早上总是喝黑咖啡。,dark,white,black 与 white 成对记颜色。
-80,blue,A1,adj.; noun,/bluː/,蓝色的；蓝色,blue sky;dark blue;feel blue,The blue sky made everyone feel cheerful.,蓝色的天空让大家心情愉快。,azure,,blue 既是颜色，也可表示情绪低落。
-81,board,A1,noun; verb,/bɔːd/,木板；董事会；登机,notice board;on board;board a plane,Please check the notice board for new messages.,请查看布告栏上的新通知。,plank;panel,,board 可记：公告贴在 board 上。
-82,boat,A1,noun,/bəʊt/,小船；舟,by boat;fishing boat;boat trip,We took a small boat across the lake.,我们坐小船穿过湖面。,ship;vessel,,boat 短，比 ship 小一号。
-83,body,A1,noun,/ˈbɒdi/,身体；主体,human body;body language;keep your body,Exercise helps keep your body strong and healthy.,锻炼有助于保持身体健康强壮。,form;physique,mind,body 相对 mind：身与心。
-84,book,A1,noun; verb,/bʊk/,书；预订,read a book;book a table;notebook,I need to book a table for Friday evening.,我需要预订周五晚上的餐位。,volume;reserve,cancel,book 既是书，也可“订下来”。
-85,bored,A1,adj.,/bɔːd/,感到无聊的,feel bored;bored with;get bored,The children got bored during the long meeting.,孩子们在漫长的会议中感到无聊。,fed up;weary,interested;excited,bored 是人的感受；boring 是事物本身。
-86,boring,A1,adj.,/ˈbɔːrɪŋ/,令人无聊的,boring film;boring job;so boring,That film was so boring that I left early.,那部电影太无聊了，我提前离开了。,dull;tedious,interesting;exciting,-ing 形容事物让人觉得无聊。
-87,born,A1,verb,/bɔːn/,出生（be born）,be born;born in;born on,She was born in a small town near York.,她出生在约克附近的一座小镇。,delivered,,be born：被动结构记“出生”。
-88,both,A1,det.; pron.,/bəʊθ/,两者都,both of;both sides;both...and,Both of my brothers live in Manchester.,我的两个哥哥都住在曼彻斯特。,the two,neither,both 管两个，neither 一个也不。
-89,bottle,A1,noun,/ˈbɒtl/,瓶子,bottle of water;plastic bottle;open a bottle,Please bring a bottle of water to the gym.,请带一瓶水去健身房。,flask;container,,bottle 中间双 t，像瓶颈收紧。
-90,bottom,A1,noun; adj.,/ˈbɒtəm/,底部；最下方的,at the bottom;bottom shelf;bottom of,Your keys are at the bottom of the bag.,你的钥匙在包的底部。,base;foot,top,bottom 对 top：底对顶。
-91,box,A1,noun; verb,/bɒks/,盒子；拳击,lunch box;cardboard box;box of,She put the toys back into the cardboard box.,她把玩具放回纸箱里。,case;carton,,box 四方，像一个盒子。
-92,boy,A1,noun,/bɔɪ/,男孩,little boy;boy and girl;schoolboy,The little boy waved to his mother.,小男孩向妈妈挥手。,lad;child,girl,boy 与 girl 成对。
-93,boyfriend,A1,noun,/ˈbɔɪfrend/,男朋友,her boyfriend;new boyfriend;meet my boyfriend,She introduced her boyfriend to her parents.,她把男朋友介绍给父母。,partner,girlfriend,boy + friend：男性朋友中的那一位。
-94,bread,A1,noun,/bred/,面包,fresh bread;slice of bread;bread and butter,She bought fresh bread from the corner shop.,她在街角小店买了新鲜面包。,loaf,,bread 是餐桌上的基本主食。
-95,break,A1,verb; noun,/breɪk/,打破；休息,take a break;break a glass;coffee break,Let's take a short break after this chapter.,学完这一章后我们休息一会儿吧。,pause;shatter,repair;continue,break 既可打破，也可“打断一下休息”。
-96,breakfast,A1,noun,/ˈbrekfəst/,早餐,have breakfast;eat breakfast;breakfast time,We usually have breakfast at half past seven.,我们通常七点半吃早餐。,morning meal,,break + fast：打断禁食，开始吃早饭。
-97,bring,A1,verb,/brɪŋ/,带来,bring back;bring with;bring to,Please bring your notebook to tomorrow's class.,请带笔记本参加明天的课。,fetch;carry,take;remove,bring 朝说话人方向拿来；take 拿去。
-98,brother,A1,noun,/ˈbrʌðə(r)/,兄弟,older brother;younger brother;brother and sister,My older brother works in a bookshop.,我哥哥在书店工作。,sibling,sister,brother 与 sister 成对记家人。
-99,brown,A1,adj.; noun,/braʊn/,棕色的；棕色,brown hair;dark brown;brown eyes,She has dark brown hair and brown eyes.,她有深棕色的头发和棕色的眼睛。,chestnut,,brown 像泥土和树干的颜色。
-100,build,A1,verb,/bɪld/,建造；建立,build a house;build confidence;build up,They plan to build a new house next year.,他们计划明年建一座新房子。,construct;create,destroy;demolish,build 一块块往上垒。
+1,the,A1,det.; art.,/ðə/,这；那（定冠词）,the same;the first;the more,The book on the table is mine.,桌上的那本书是我的。,,,元音前常读 /ðiː/，辅音前读 /ðə/。
+2,be,A1,verb,/biː/,是；在；成为,be careful;be honest;there be,She wants to be a doctor one day.,她希望有一天成为医生。,exist;remain,,am/is/are/was/were 都是 be 的词形。
+3,and,A1,conj.,/ænd/,和；并且,and so on;bread and butter;and then,Tom and Lily walked home together.,汤姆和莉莉一起走回家。,plus;also,but;or,连接对等成分，可记成“一加一”。
+4,of,A1,prep.,/əv/,……的；属于,a lot of;kind of;proud of,This is a photo of my family.,这是我家的一张照片。,from;about,,弱读常见 /əv/，别总读成 /ɒv/。
+5,to,A1,prep.; particle,/tuː/,到；向；去；不定式标记,go to;listen to;want to,I need to finish my homework tonight.,我今晚需要完成作业。,towards;for,from,作不定式时多弱读 /tə/。
+6,a,A1,det.; art.,/ə/,一个（不定冠词）,a bit;a few;have a look,She bought a gift for her friend.,她给朋友买了一份礼物。,one;any,the,辅音前用 a，元音前改用 an。
+7,in,A1,prep.; adv.,/ɪn/,在……里；在……时,in time;in fact;in the morning,There are three books in the bag.,包里有三本书。,inside;within,out;outside,in 像走进门里。
+8,have,A1,verb,/hæv/,有；吃；经历；助动词,have lunch;have to;have fun,They have a small flat near the station.,他们在车站附近有一套小公寓。,own;possess,lack,完成时里 have/has + 过去分词。
+9,it,A1,pron.,/ɪt/,它；这；形式主语,it seems;find it;make it,It is raining hard this afternoon.,今天下午雨下得很大。,this;that,,指物、动物、时间天气常用 it。
+10,you,A1,pron.,/juː/,你；你们,thank you;see you;you know,Can you help me with this box?,你能帮我搬这个箱子吗？,one;people,,单复数同形，语气看语境。
+11,he,A1,pron.,/hiː/,他,he says;he is;there he is,He is waiting for the bus outside.,他在外面等公交车。,,she,主格 he，宾格 him，所有格 his。
+12,for,A1,prep.; conj.,/fɔː(r)/,为了；给；因为；达……之久,for example;look for;wait for,This gift is for your sister.,这份礼物是给你妹妹的。,because of;during,against,表目的、对象或时间长度都很常见。
+13,they,A1,pron.,/ðeɪ/,他们；她们；它们,they say;there they are;as they,They arrived early for the meeting.,他们早早到了会议现场。,people,,主格 they，宾格 them，所有格 their。
+14,not,A1,adv.; particle,/nɒt/,不；没有,not only;do not;not yet,I do not want to go out tonight.,我今晚不想出门。,no;never,yes,常缩成 n't，如 don't / isn't。
+15,that,A1,det.; pron.; conj.; adv.,/ðæt/,那个；那；引导从句,so that;that day;find that,I think that the answer is correct.,我认为这个答案是正确的。,which;this,this,可指物，也可引导 that 从句。
+16,we,A1,pron.,/wiː/,我们,we are;as we;shall we,We are planning a trip next month.,我们计划下个月去旅行。,us,,主格 we，宾格 us，所有格 our。
+17,on,A1,prep.; adv.,/ɒn/,在……上；关于；继续,on time;on the table;turn on,The keys are on the kitchen table.,钥匙在厨房桌上。,upon;about,off;under,接触表面用 on，反义常想 off。
+18,with,A1,prep.,/wɪð/,和……一起；用；带有,with care;deal with;along with,She went to the cinema with her friends.,她和朋友们一起去看电影了。,alongside;using,without,with 的反义是 without。
+19,this,A1,det.; pron.; adv.,/ðɪs/,这；这个,this morning;this way;like this,This café makes excellent coffee.,这家咖啡馆咖啡很好。,these;that,that,近处 this，远处 that；复数 these。
+20,i,A1,pron.,/aɪ/,我,I think;I am;I hope,I usually get up at seven.,我通常七点起床。,me,,句子开头须大写 I。
+21,do,A1,verb; aux.,/duː/,做；干；助动词,do homework;do well;how do you,What do you usually do at weekends?,你周末通常做什么？,perform;act,,疑问/否定句里常用 do/does/did。
+22,as,A1,prep.; conj.; adv.,/æz/,作为；当……时；像；因为,as well;as soon as;as for,She works as a nurse in hospital.,她在医院当护士。,like;while,,as…as 表示同等比较。
+23,at,A1,prep.,/æt/,在（地点/时间点）；朝向,at home;at least;look at,We will meet at the station at six.,我们六点在车站见面。,in;on,,具体时刻、较小地点常用 at。
+24,she,A1,pron.,/ʃiː/,她,she says;she is;there she is,She teaches English at our school.,她在我们学校教英语。,,he,主格 she，宾格 her，所有格 her。
+25,but,A1,conj.; prep.; adv.,/bʌt/,但是；除了,but also;nothing but;last but not least,"I like tea, but I prefer coffee.",我喜欢茶，但更爱咖啡。,however;yet,and,转折用 but，语气比 however 更口语。
+26,from,A1,prep.,/frɒm/,从；来自；由于,from home;far from;different from,This letter is from my uncle in London.,这封信来自我在伦敦的叔叔。,out of;since,to;towards,from A to B：从 A 到 B。
+27,by,A1,prep.; adv.,/baɪ/,被；通过；在旁边；到……之前,by bus;by chance;by the way,The report was written by my colleague.,这份报告是我同事写的。,via;near,,被动语态里 by 引出动作执行者。
+28,will,A1,modal; noun,/wɪl/,将；会；意愿；遗嘱,will be;free will;if you will,They will call you tomorrow morning.,他们明天早上会给你打电话。,shall;going to,won't,表将来也表意愿；won't = will not。
+29,or,A1,conj.,/ɔː(r)/,或者；否则,or so;either or;or else,Would you like tea or coffee?,你想喝茶还是咖啡？,alternatively,and,either…or… 表示二选一。
+30,say,A1,verb,/seɪ/,说；表示,say hello;say sorry;that is to say,Please say your name clearly.,请清楚地说出你的名字。,speak;tell;state,listen,say 侧重说的内容；tell 常带对象。
+31,go,A1,verb,/ɡəʊ/,去；走；变得,go home;go on;go shopping,We usually go to school by bike.,我们通常骑自行车去上学。,leave;travel;move,stay;come,go + -ing：go swimming / go shopping。
+32,so,A1,adv.; conj.,/səʊ/,如此；所以；这样,so that;so far;and so on,"It was raining, so we stayed inside.",下雨了，所以我们待在屋里。,therefore;very,,既表程度（so tired），也表结果。
+33,all,A1,det.; pron.; adv.,/ɔːl/,全部；所有；完全,all day;above all;all over,All students must wear school uniforms.,所有学生都必须穿校服。,every;entire,none;some,all of us = 我们全部。
+34,if,A1,conj.,/ɪf/,如果；是否,if possible;what if;as if,"If it rains, we will cancel the trip.",如果下雨，我们就取消这次旅行。,whether;when,,真实条件用 will；虚拟则改时态。
+35,one,A1,num.; pron.; det.,/wʌn/,一；一个人；某一个,one day;one of;the one,One of my friends lives abroad.,我的一个朋友住在国外。,a;single,many;none,可替代前文名词：this one / that one。
+36,would,A1,modal,/wʊd/,会；愿意；过去将来,would like;would rather;would you,"I would like a glass of water, please.",请给我一杯水。,could;might,,would like = want 的更礼貌说法。
+37,about,A1,prep.; adv.,/əˈbaʊt/,关于；大约；到处,talk about;about time;think about,We talked about our weekend plans after lunch.,午饭后我们聊了周末的计划。,regarding;around,exactly,about 可记成绕着一件事转。
+38,can,A1,modal; noun,/kæn/,能；可以；罐头,can do;as you can;can of,"Can you open the window, please?",请你把窗户打开好吗？,could;may;able to,cannot,否定 can't；过去/委婉用 could。
+39,which,A1,pron.; det.,/wɪtʃ/,哪一个；……的（关系代词）,which one;in which;of which,Which colour do you prefer?,你更喜欢哪种颜色？,that;what,,问选择用 which；非限定从句也常用。
+40,there,A1,adv.; pron.,/ðeə(r)/,在那里；有（there be）,over there;there is;out there,There is a park near my house.,我家附近有一座公园。,here,here,there be 表“存在”，非地点时也可用。
+41,know,A1,verb,/nəʊ/,知道；认识；了解,know about;get to know;as you know,Do you know the way to the museum?,你知道去博物馆怎么走吗？,understand;recognise,ignore,know that… = 知道某事属实。
+42,more,A1,det.; adv.; pron.,/mɔː(r)/,更多；更加,more than;once more;more or less,I need more time to finish this task.,我需要更多时间完成这项任务。,additional;extra,less;fewer,比较级：more + 多音节形容词。
+43,get,A1,verb,/ɡet/,得到；变得；到达,get up;get ready;get to,How do I get to the railway station?,我怎么去火车站？,receive;become;arrive,lose;give,短语很多：get on / get off / get over。
+44,who,A1,pron.,/huː/,谁；……的人,who is;those who;who else,Who left this bag on the chair?,谁把包落在椅子上了？,whom;that,,主格 who，宾格正式场合用 whom。
+45,like,A1,prep.; verb; conj.,/laɪk/,像；喜欢；例如,like this;feel like;would like,She looks like her mother.,她长得像她母亲。,enjoy;similar to,dislike;unlike,作介词表“像”，作动词表“喜欢”。
+46,when,A1,adv.; conj.; pron.,/wen/,什么时候；当……时,when to;by when;since when,When does the train arrive?,火车什么时候到？,while;whenever,,既问时间，也引导时间从句。
+47,think,A1,verb,/θɪŋk/,想；认为；思索,think about;think of;I think,I think we should leave early.,我认为我们该早点出发。,believe;consider,,think of=想起；think about=考虑。
+48,make,A1,verb,/meɪk/,做；制造；使,make sure;make a decision;make friends,She made a cake for the party.,她为派对做了一个蛋糕。,create;produce;cause,destroy;break,make sb do = 让某人做某事。
+49,time,A1,noun; verb,/taɪm/,时间；次数；时机,on time;take time;have time,We do not have much time left.,我们剩下的时间不多了。,moment;occasion;period,,times 可表倍数或次数。
+50,see,A1,verb,/siː/,看见；理解；见面,see you;see as;I see,Did you see the notice on the board?,你看到黑板上的通知了吗？,watch;notice;understand,miss;ignore,see 无意识看见；watch 有意观看。
+51,what,A1,pron.; det.; adv.,/wɒt/,什么；多么,what about;what if;what for,What is your favourite subject?,你最喜欢的科目是什么？,which;how,,What a day! 感叹句很常见。
+52,up,A1,adv.; prep.; adj.,/ʌp/,向上；起来；完成,get up;wake up;give up,Please stand up when the teacher comes in.,老师进来时请起立。,upwards;aloft,down,大量动词短语含 up，表完成或上升。
+53,some,A1,det.; pron.; adv.,/sʌm/,一些；某个；大约,some people;some of;for some time,Would you like some tea?,你想喝点茶吗？,a few;several,none;all,肯定句多用 some，疑问/否定常改 any。
+54,other,A1,adj.; pron.,/ˈʌðə(r)/,其他的；另一个,each other;the other;other than,Do you have any other questions?,你还有其他问题吗？,another;different,same,the other=两者中另一个；others=其他人/物。
+55,out,A1,adv.; prep.; adj.,/aʊt/,出去；外面；熄灭,go out;find out;out of,She went out for a short walk.,她出去散了一会儿步。,outside;away,in;inside,out of = 从……出来 / 用完。
+56,good,A1,adj.; noun,/ɡʊd/,好的；擅长的；好处,good at;good news;for good,This is a good place for a picnic.,这是一个野餐的好地方。,nice;fine;excellent,bad;poor,better / best 是其比较级与最高级。
+57,people,A1,noun,/ˈpiːpl/,人；人们；民族,young people;many people;local people,Many people use public transport every day.,许多人每天使用公共交通。,persons;folks,,通常当复数：people are…。
+58,year,A1,noun,/jɪə(r)/,年；岁；学年,next year;every year;for years,She spent a year studying abroad.,她在国外学习了一年。,annum;twelve months,,years old 表示年龄。
+59,take,A1,verb,/teɪk/,拿；带；花费；乘坐,take care;take place;take part,It takes twenty minutes to walk there.,步行到那里要二十分钟。,bring;carry;accept,give;leave,take 强调带走；bring 强调带来。
+60,no,A1,det.; adv.; interj.,/nəʊ/,没有；不；不是的,no longer;no one;no problem,There is no milk left in the fridge.,冰箱里没有牛奶了。,not any;none,yes;some,no + 名词 = not any + 名词。
+61,well,A1,adv.; adj.; interj.,/wel/,好地；健康的；嗯,as well;well done;get well,She speaks English very well.,她英语说得很好。,fine;properly,badly;ill,作形容词常指健康：feel well。
+62,because,A1,conj.,/bɪˈkɒz/,因为,because of;just because;because why,We stayed indoors because it was cold.,因为天冷，我们待在室内。,since;as;for,although,because of + 名词短语。
+63,very,A1,adv.,/ˈveri/,非常；很,very much;very good;very well,The film was very interesting.,这部电影非常有趣。,extremely;really,slightly,very + 形容词/副词，不可直接修饰动词。
+64,just,A1,adv.; adj.,/dʒʌst/,刚刚；只是；公正的,just now;just in time;just as,I have just finished my homework.,我刚刚做完作业。,only;recently;fair,unfair,完成时里 just 表“刚刚”。
+65,come,A1,verb,/kʌm/,来；到达；出现,come back;come from;come on,Please come to my office after class.,下课后请到我办公室来。,arrive;approach,go;leave,come 朝说话者来；go 离开说话者。
+66,could,A1,modal,/kʊd/,能；可以；可能（过去或委婉）,could you;could be;as could,Could you open the door for me?,你能帮我开一下门吗？,can;might;would,,比 can 更礼貌，也表过去能力。
+67,work,A1,noun; verb,/wɜːk/,工作；劳动；起作用,at work;work hard;go to work,She started work at nine this morning.,她今天早上九点开始工作。,job;labour;function,rest;play,不可数常指劳动；job 多指具体职位。
+68,use,A1,verb; noun,/juːz/; /juːs/,使用；用途,use up;make use of;in use,May I use your phone for a minute?,我可以用一下你的手机吗？,employ;utilise,waste;ignore,动词读 /juːz/，名词读 /juːs/。
+69,than,A1,conj.; prep.,/ðæn/,比,more than;rather than;other than,This book is longer than that one.,这本书比那本更长。,compared with,,比较级后接 than。
+70,now,A1,adv.; conj.; noun,/naʊ/,现在；目前,right now;from now on;by now,We need to leave now or we will be late.,我们现在就得走，否则会迟到。,currently;at present,then;later,now and then = 偶尔。
+71,then,A1,adv.,/ðen/,然后；那时；那么,and then;since then;by then,"First wash the vegetables, then cook them.",先洗菜，然后烹调。,next;afterwards;at that time,now,既表顺序，也表“那时”。
+72,also,A1,adv.,/ˈɔːlsəʊ/,也；而且,not only also;and also;also known as,She can also speak a little French.,她也会说一点法语。,too;as well;moreover,,also 多在句中；too 常在句末。
+73,into,A1,prep.,/ˈɪntuː/,进入；变成,go into;turn into;look into,He walked into the classroom quietly.,他安静地走进教室。,inside;in,out of,强调进入内部：into the room。
+74,only,A1,adv.; adj.,/ˈəʊnli/,仅仅；唯一的,not only;only if;the only,Only three people came to the meeting.,只有三个人来开会。,just;sole;merely,,位置不同可能改变句子重点。
+75,look,A1,verb; noun,/lʊk/,看；看起来；外观,look at;look for;look after,Please look at the board carefully.,请仔细看黑板。,see;watch;appear,,look at/for/after 搭配义差很大。
+76,want,A1,verb; noun,/wɒnt/,想要；需要,want to;want for;in want of,I want to learn how to cook.,我想学做饭。,wish;desire;need,reject,want sb to do = 想让某人做。
+77,give,A1,verb,/ɡɪv/,给；提供；产生,give up;give back;give a talk,Could you give me some advice?,你能给我一些建议吗？,offer;provide;hand,take;receive,give sb sth 或 give sth to sb。
+78,first,A1,det.; adv.; noun,/fɜːst/,第一；首先；初次,first of all;at first;first time,"First, we need to check the timetable.",首先，我们需要核对时刻表。,initial;primary,last;final,at first=起初；first of all=首先。
+79,new,A1,adj.,/njuː/,新的；陌生的,new year;brand new;new to,They moved into a new flat last week.,他们上周搬进了新公寓。,fresh;modern;recent,old;used,new to sth = 对……不熟悉。
+80,way,A1,noun; adv.,/weɪ/,方式；路；方法,by the way;on the way;in this way,Is this the way to the post office?,这是去邮局的路吗？,method;road;manner,,way 既指路，也指做事方法。
+81,find,A1,verb,/faɪnd/,找到；发现；觉得,find out;find it hard;find a way,I cannot find my keys anywhere.,我到处都找不到钥匙。,discover;locate;feel,lose;miss,find out = 查明事实。
+82,over,A1,prep.; adv.; adj.,/ˈəʊvə(r)/,在……上方；结束；越过,over there;all over;get over,The meeting will be over by five.,会议五点前会结束。,above;across;finished,under,be over = 结束；get over = 克服。
+83,any,A1,det.; pron.; adv.,/ˈeni/,任何；一些（疑/否）,any more;in any case;any time,Do you have any questions about the text?,你对课文有任何问题吗？,some;every,none,疑问否定用 any；肯定常用 some。
+84,after,A1,prep.; conj.; adv.,/ˈɑːftə(r)/,在……之后,after all;look after;after school,We went for a walk after dinner.,晚饭后我们去散步了。,following;later,before,after all = 毕竟。
+85,day,A1,noun,/deɪ/,天；白天；日子,one day;every day;the other day,What a beautiful day it is today!,今天天气真好！,date;daytime,night,day by day = 一天天。
+86,where,A1,adv.; conj.; pron.,/weə(r)/,在哪里；……的地方,where to;anywhere;where from,Where did you put the tickets?,你把票放哪里了？,wherever,,既问地点，也引导地点从句。
+87,thing,A1,noun,/θɪŋ/,东西；事情；情况,for one thing;the thing is;among other things,I have many things to do this weekend.,这个周末我有很多事要做。,matter;object;stuff,,口语里 thing 常泛指事情。
+88,most,A1,det.; pron.; adv.,/məʊst/,大多数；最,most of;at most;most importantly,Most students in this class like sports.,这个班大多数学生喜欢运动。,majority;nearly all,least;fewest,the most + 形容词 = 最高级。
+89,should,A1,modal,/ʃʊd/,应该；理应,should be;should have;why should,You should drink more water every day.,你应该每天多喝水。,ought to;must,shouldn't,should have done = 本该做却未做。
+90,need,A1,verb; modal; noun,/niːd/,需要；必要,need to;in need;need for,We need more chairs for the meeting.,我们开会需要更多椅子。,require;want;must,,实义动词 need to do；情态否定 needn't。
+91,much,A1,det.; pron.; adv.,/mʌtʃ/,许多（不可数）；很,how much;too much;as much as,There is not much sugar left.,剩下的糖不多了。,a lot;greatly,little,much 修不可数；many 修可数。
+92,right,A1,adj.; adv.; noun,/raɪt/,正确的；右边；权利,all right;right now;the right to,Turn right at the next traffic lights.,在下一个红绿灯处右转。,correct;proper,wrong;left,既表对错，也表左右与权利。
+93,how,A1,adv.; conj.,/haʊ/,如何；怎样；多么,how to;how about;how long,How can I improve my listening skills?,我怎样才能提高听力？,in what way,,how + adj./adv. 可表感叹。
+94,back,A1,adv.; noun; adj.; verb,/bæk/,回；背部；支持,come back;go back;at the back,Please put the book back on the shelf.,请把书放回书架上。,behind;return,front;forward,back 作动词也可表“支持”。
+95,mean,A1,verb; adj.,/miːn/,意思是；意味着；刻薄的,mean to;what do you mean;by means of,What does this word mean?,这个词是什么意思？,signify;intend;unkind,kind,I mean… 常用来澄清说法。
+96,even,A1,adv.; adj.,/ˈiːvn/,甚至；连；平的,even if;even more;even so,Even a child can understand this rule.,连小孩子都能理解这条规则。,still;yet;flat,odd;uneven,even if = 即使。
+97,may,A1,modal; noun,/meɪ/,可以；可能；五月,may be;may as well;May Day,You may leave when you finish the test.,考完试你就可以离开。,might;can;could,must not,表允许或可能性；大写 May 是五月。
+98,here,A1,adv.,/hɪə(r)/,这里；在此刻,come here;over here;here and there,Please sit here next to me.,请坐在我旁边这里。,in this place,there,Here you are. = 给你。
+99,many,A1,det.; pron.,/ˈmeni/,许多（可数）,how many;many of;as many as,Many shops are closed on Sunday.,许多商店周日关门。,lots of;numerous,few,many + 复数名词。
+100,such,A1,det.; pron.; prep.,/sʌtʃ/,这样的；如此,such as;such a;as such,I have never seen such a beautiful sunset.,我从未见过如此美丽的日落。,so;this kind of,,such as = 例如；such a + 单数名词。

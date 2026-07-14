@@ -1,13 +1,27 @@
 # English Core 3000
 
-原创英语核心词汇学习库（CEFR A1–B2），共 3000 词。
+英语核心词汇学习库，共 **3000** 词，按通用英语词频排序。
+
+## 词表来源
+
+| 部分 | 来源 | 数量 |
+|------|------|------|
+| 主表 | [NGSL 1.2](https://www.newgeneralservicelist.com/new-general-service-list) 中心词 | 2801 |
+| 补充 | NGSL 补充词（星期 / 部分月份 / 数词与序数等） | 51 |
+| 补足 | [NAWL](https://www.newgeneralservicelist.com/) 中不在 NGSL 的词 | 148 |
+
+引用（CC BY-SA 4.0）：
+
+> Browne, C., Culligan, B., & Phillips, J. The New General Service List (NGSL) / New Academic Word List (NAWL). https://www.newgeneralservicelist.com
 
 ## 约定
 
-- 词表：按 CEFR 分层自编（不复制 Oxford 等官方词表）
-- 难度：约 A1 20% / A2 30% / B1 30% / B2 20%
-- 拼写：仅英式
-- 音标：仅 IPA_UK
+- **Rank**：词频序（NGSL → 补充词 → NAWL 补足）
+- **CEFR**（频段近似标签，非官方鉴定）：
+  - NGSL：1–600 ≈ A1；601–1500 ≈ A2；1501–2400 ≈ B1；2401–2801 ≈ B2
+  - 补充词（星期/数词等）：标为 A1
+  - NAWL 补足：标为 B2
+- 音标：英式 IPA（`IPA_UK`）
 - 每批 100 词，共 30 个 Part
 
 ## CSV 字段
@@ -20,16 +34,17 @@ Rank,Word,CEFR,PartOfSpeech,IPA_UK,Chinese,Collocation,Example_EN,Example_CN,Syn
 
 | 路径 | 说明 |
 |------|------|
-| `csv/Part01.csv` … `Part30.csv` | 分卷词表（每卷 100 词） |
+| `csv/Part01.csv` … `Part30.csv` | 分卷词表 |
 | `excel/English-Core-3000.csv` | 全书合并 CSV |
 | `markdown/English-Core-3000.md` | 全书 Markdown |
 | `anki/English-Core-3000.txt` | Anki 导入（Tab 分隔） |
 
 ## 分布
 
-| Part | Rank | CEFR 侧重 |
-|------|------|-----------|
-| Part01–06 | 1–600 | 偏 A1 |
+| Part | Rank | 说明 |
+|------|------|------|
+| Part01–06 | 1–600 | 最高频（偏 A1） |
 | Part07–15 | 601–1500 | 偏 A2 |
 | Part16–24 | 1501–2400 | 偏 B1 |
-| Part25–30 | 2401–3000 | 偏 B2 |
+| Part25–28 | 2401–2801 | NGSL 后段（偏 B2） |
+| Part29–30 | 2802–3000 | 补充词 + NAWL 补足 |

@@ -1,101 +1,101 @@
 Rank,Word,CEFR,PartOfSpeech,IPA_UK,Chinese,Collocation,Example_EN,Example_CN,Synonym,Antonym,MemoryTip
-1001,system,A2,noun,/ˈsɪstəm/,系统,school system;system of;in the system,The school has a new system for online homework.,学校有了一套新的在线作业系统。,method;network,,system：按规则运转的一整套。
-1002,table,A2,noun,/ˈteɪbl/,桌子,dinner table;on the table;set the table,Please put the plates on the table now.,请现在把盘子放在桌子上。,desk,,table：用餐或摆放物品的桌子。
-1003,tablet,A2,noun,/ˈtæblət/,平板电脑；药片,tablet computer;take a tablet;on the tablet,She reads the news on her tablet each morning.,她每天早上在平板电脑上看新闻。,pill;pad,,tablet：药片，也是平板电脑。
-1004,take,A2,verb,/teɪk/,拿；花费,take a bus;take time;take care,It will take about twenty minutes to walk there.,走到那里大约要二十分钟。,bring;carry,give,take：拿走、花费时间，搭配很多。
-1005,talk,A2,verb; noun,/tɔːk/,谈话,talk about;talk to;have a talk,We need to talk about the school trip tomorrow.,我们需要明天谈谈学校旅行的事。,speak;chat,,talk：口头交谈。
-1006,tall,A2,adj.,/tɔːl/,高的,tall building;grow tall;tall for,He is taller than most boys in his class.,他比班里大多数男生都高。,high,short,tall：多指人身高或建筑物高。
-1007,taxi,A2,noun,/ˈtæksi/,出租车,by taxi;taxi driver;call a taxi,We took a taxi to the station in the rain.,下雨时我们打车去了车站。,cab,,taxi：按里程计费的出租车。
-1008,tea,A2,noun,/tiː/,茶,cup of tea;green tea;tea break,Would you like a cup of tea after dinner?,晚饭后想喝杯茶吗？,,,tea：用叶子冲泡的热饮。
-1009,teach,A2,verb,/tiːtʃ/,教,teach English;teach someone;teach at,My aunt teaches English at a primary school.,我阿姨在一所小学教英语。,instruct,learn,teach：把知识教给别人。
-1010,teacher,A2,noun,/ˈtiːtʃə(r)/,教师,maths teacher;head teacher;teacher of,Our maths teacher explained the problem clearly.,我们数学老师把问题讲得很清楚。,tutor;instructor,student,teach + er：教书的人。
-1011,team,A2,noun,/tiːm/,团队,football team;team work;join a team,Our school football team won the match today.,我们学校足球队今天赢了比赛。,group;squad,,team：一起为目标努力的一群人。
-1012,teenager,A2,noun,/ˈtiːneɪdʒə(r)/,青少年,typical teenager;as a teenager;teenager years,Many teenagers spend too much time on phones.,许多青少年花太多时间在手机上。,adolescent,,teen + ager：十几岁的人。
-1013,telephone,A2,noun; verb,/ˈtelɪfəʊn/,电话,telephone call;on the telephone;telephone number,Please answer the telephone if it rings.,如果电话响了请接听。,phone,,tele + phone：远距离传声。
-1014,television,A2,noun,/ˈtelɪvɪʒn/,电视,on television;watch television;television programme,We watched a film on television last night.,昨晚我们在电视上看了一部电影。,TV,,tele + vision：从远处看见图像。
-1015,tell,A2,verb,/tel/,告诉,tell a story;tell someone;tell the truth,Can you tell me the way to the station?,你能告诉我去车站的路吗？,say;inform,,tell：把信息告诉某人。
-1016,temperature,A2,noun,/ˈtemprətʃə(r)/,温度,high temperature;body temperature;take your temperature,"His temperature was high, so he stayed in bed.",他体温偏高，所以躺在床上。,heat,,temper + ature：冷热程度。
-1017,ten,A2,number,/ten/,十,ten o'clock;ten years;page ten,The shop opens at ten o'clock every morning.,这家店每天早上十点开门。,,,ten：数字 10。
-1018,tennis,A2,noun,/ˈtenɪs/,网球,play tennis;tennis court;tennis match,We played tennis in the park on Sunday.,我们周日在公园打了网球。,,,tennis：用拍击球过网的运动。
-1019,tent,A2,noun,/tent/,帐篷,put up a tent;in a tent;camping tent,We slept in a tent during the school camp.,学校露营时我们睡在帐篷里。,,,tent：户外过夜用的布棚。
-1020,term,A2,noun,/tɜːm/,学期；术语,this term;end of term;term time,Exams will begin at the end of term.,考试将在学期末开始。,semester;word,,term：学期，也指术语。
-1021,terrible,A2,adj.,/ˈterəbl/,糟糕的,terrible weather;feel terrible;terrible mistake,The weather was terrible during our holiday.,我们度假时天气糟透了。,awful;dreadful,wonderful,terrible：程度很强的糟糕。
-1022,test,A2,noun; verb,/test/,测试,take a test;test result;blood test,We have an English test on Friday morning.,我们周五上午有英语测验。,exam;check,,test：检验知识或状况。
-1023,text,A2,noun; verb,/tekst/,文本；发短信,text message;send a text;in the text,I sent her a text about the homework.,我给她发了一条关于作业的短信。,message;passage,,text：文字内容或短信。
-1024,than,A2,conj.; prep.,/ðæn/,比,better than;more than;rather than,This book is better than the one I read.,这本书比我读过的那本更好。,,,than：用于比较句。
-1025,thank,A2,verb,/θæŋk/,感谢,thank you;thank for;thank someone,I want to thank you for your kind help.,我想感谢你好心的帮助。,appreciate,,thank：表达谢意。
-1026,thanks,A2,exclam.; noun,/θæŋks/,谢谢,many thanks;thanks for;thanks a lot,Thanks for helping me with my heavy bags.,谢谢你帮我拿那些重包。,thank you,,thanks：口语里的感谢。
-1027,that,A2,det.; pron.; conj.,/ðæt/,那；引导从句,that book;so that;I think that,That film was much better than I expected.,那部电影比我预期的好得多。,those,,that：较远的“那个”，或引导从句。
-1028,the,A2,det.,/ðə/,定冠词,the sun;the same;the best,The sun was shining brightly this morning.,今天早上阳光灿烂。,,,the：特指已知的人或物。
-1029,theatre,A2,noun,/ˈθɪətə(r)/,剧院（英式）,at the theatre;theatre ticket;go to the theatre,We bought tickets for the theatre this weekend.,我们买了这周末剧院的票。,playhouse,,英式 theatre；美式常拼 theater。
-1030,their,A2,det.,/ðeə(r)/,他们的,their house;their own;on their own,Their house is near the park and the school.,他们的房子靠近公园和学校。,,our,their：他们的。
-1031,theirs,A2,pron.,/ðeəz/,他们的（名词性）,of theirs;this is theirs;theirs alone,That red car across the street is theirs.,马路对面那辆红车是他们的。,,ours,theirs：名词性“他们的”，后不接名词。
-1032,them,A2,pron.,/ðem/,他们（宾格）,give them;for them;with them,Please give them these books after class.,请在课后把这些书交给他们。,,us,them：they 的宾格。
-1033,themselves,A2,pron.,/ðəmˈselvz/,他们自己,by themselves;among themselves;for themselves,The children walked home by themselves today.,孩子们今天自己走回家。,,,them + selves：他们自己。
-1034,then,A2,adv.,/ðen/,然后；那时,and then;just then;since then,"First finish your homework, and then you may play.",先做完作业，然后才能玩。,next;afterwards,now,then：那时，或然后。
-1035,there,A2,adv.,/ðeə(r)/,那里,over there;there is;here and there,Is there a supermarket near your house?,你家附近有超市吗？,in that place,here,there：那边，或 there is 结构。
-1036,these,A2,det.; pron.,/ðiːz/,这些,these books;these days;one of these,These books belong to the school library.,这些书属于学校图书馆。,those,,these：this 的复数（近处）。
-1037,they,A2,pron.,/ðeɪ/,他们,they are;they said;they and we,They want to visit the museum after lunch.,他们想午饭后去参观博物馆。,,we,they：复数第三人称。
-1038,thick,A2,adj.,/θɪk/,厚的,thick book;thick fog;thick soup,There was thick fog on the road this morning.,今早路上雾很浓。,dense,thin,thick：厚或浓。
-1039,thin,A2,adj.,/θɪn/,薄的；瘦的,thin ice;look thin;thin air,Be careful; the ice on the lake is thin.,小心，湖上的冰很薄。,slim;narrow,thick;fat,thin：薄或瘦。
-1040,thing,A2,noun,/θɪŋ/,事物,something;among other things;the thing is,The most important thing is to stay calm.,最重要的是保持冷静。,object;matter,,thing：泛指“东西/事情”。
-1041,think,A2,verb,/θɪŋk/,想,think about;think of;think so,What do you think about this new idea?,你觉得这个新主意怎么样？,believe;consider,,think：动脑筋思考。
-1042,third,A2,number,/θɜːd/,第三,third floor;come third;a third,Her office is on the third floor of this building.,她的办公室在这座楼的三层。,3rd,,third：第三（序数词）。
-1043,thirsty,A2,adj.,/ˈθɜːsti/,口渴的,feel thirsty;thirsty work;thirsty for,I feel thirsty after playing football outside.,在外面踢完足球后我感到口渴。,parched,full,thirst + y：想喝水。
-1044,thirteen,A2,number,/ˌθɜːˈtiːn/,十三,thirteen years old;page thirteen;thirteen students,She started secondary school at thirteen.,她十三岁进中学。,,,three + teen：十三。
-1045,thirty,A2,number,/ˈθɜːti/,三十,thirty minutes;about thirty;thirty years,The meeting will last about thirty minutes today.,今天会议大约持续三十分钟。,,,thirty：三十。
-1046,this,A2,det.; pron.,/ðɪs/,这个,this morning;this one;this week,This morning I walked to school with my sister.,今天早上我和姐姐步行去学校。,these,that,this：近处的“这个”。
-1047,those,A2,det.; pron.,/ðəʊz/,那些,those days;those people;one of those,Those books on the shelf belong to my brother.,架子上那些书是我哥哥的。,that,these,those：较远的“那些”。
-1048,though,A2,conj.; adv.,/ðəʊ/,虽然,even though;as though;strange though,"Even though it was raining, we went for a walk.",尽管下着雨，我们还是去散步了。,although;however,,though：虽然 / 不过。
-1049,thought,A2,noun,/θɔːt/,想法,have a thought;deep thought;second thought,I suddenly had a thought about a better plan.,我突然想到一个更好的计划。,idea;thinking,,think 的过去式/名词：想法。
-1050,thousand,A2,number,/ˈθaʊznd/,千,two thousand;thousands of;a thousand,Thousands of people visited the park last weekend.,上周末成千上万的人参观了公园。,,,thousand：一千。
-1051,three,A2,number,/θriː/,三,three o'clock;three times;page three,The train leaves at three o'clock this afternoon.,火车今天下午三点出发。,,,three：数字 3。
-1052,through,A2,prep.; adv.,/θruː/,穿过,go through;through the door;all through,We walked through the park on our way home.,我们回家途中穿过公园。,across;via,,through：从一端穿到另一端。
-1053,Thursday,A2,noun,/ˈθɜːzdeɪ/,星期四,on Thursday;Thursday morning;next Thursday,We have a science test on Thursday morning.,我们周四上午有科学测验。,,,Thursday：星期四。
-1054,ticket,A2,noun,/ˈtɪkɪt/,票,train ticket;buy a ticket;ticket office,I bought a train ticket to London this morning.,我今早买了一张去伦敦的火车票。,pass;entry,,ticket：入场或乘车的凭证。
-1055,tidy,A2,adj.; verb,/ˈtaɪdi/,整洁的；整理,tidy up;tidy room;keep tidy,Please tidy your room before the guests arrive.,客人到达前请整理好房间。,neat;orderly,messy,tidy：整洁有序。
-1056,tie,A2,noun; verb,/taɪ/,领带；系,wear a tie;tie your shoes;tie with,He wore a blue tie to the job interview.,他面试时打了一条蓝领带。,knot;draw,untie,tie：系牢，也指领带或平局。
-1057,tiger,A2,noun,/ˈtaɪɡə(r)/,老虎,tiger at the zoo;tiger stripes;tiger cub,The children saw a tiger at the city zoo.,孩子们在市动物园看见了一只老虎。,,,tiger：有条纹的大型猫科动物。
-1058,time,A2,noun,/taɪm/,时间,on time;have time;at the same time,Please try to arrive on time for the meeting.,请尽量准时来开会。,moment;occasion,,time：时间；on time = 准时。
-1059,tired,A2,adj.,/ˈtaɪəd/,疲倦的,feel tired;tired of;tired out,I feel tired after a long day at school.,在学校忙了一整天后我感到疲倦。,exhausted;weary,energetic,tire + d：累了。
-1060,title,A2,noun,/ˈtaɪtl/,标题；头衔,book title;job title;title of,What is the title of your favourite book?,你最喜欢的书书名是什么？,name;heading,,title：书名、标题或头衔。
-1061,to,A2,prep.; infinitive marker,/tə/,到；不定式标记,go to;to school;want to,I usually walk to school with my friends.,我通常和朋友步行去学校。,towards,from,to：朝向某地，或接动词原形。
-1062,today,A2,adv.; noun,/təˈdeɪ/,今天,later today;today's news;from today,We have a maths lesson later today at school.,我们今天晚些时候在学校有数学课。,this day,yesterday;tomorrow,to + day：今天。
-1063,toe,A2,noun,/təʊ/,脚趾,big toe;from head to toe;toe of,He hurt his big toe while playing football.,他踢足球时伤到了大脚趾。,,,toe：脚上的脚趾。
-1064,together,A2,adv.,/təˈɡeðə(r)/,一起,together with;get together;work together,We worked together on the science project.,我们一起完成了科学项目。,jointly,apart,to + gether：到一起。
-1065,toilet,A2,noun,/ˈtɔɪlət/,厕所（英）,go to the toilet;public toilet;toilet paper,"Where is the nearest public toilet, please?",请问最近的公共厕所在哪里？,lavatory;loo,,toilet：卫生间（英式常用）。
-1066,tomato,A2,noun,/təˈmɑːtəʊ/,番茄,tomato sauce;fresh tomato;tomato soup,I made a salad with fresh tomato and cheese.,我用新鲜番茄和奶酪做了沙拉。,,,tomato：红色多汁的蔬果。
-1067,tomorrow,A2,adv.; noun,/təˈmɒrəʊ/,明天,tomorrow morning;see you tomorrow;the day after tomorrow,We will finish the project tomorrow morning.,我们明天早上会完成这个项目。,,yesterday,tomorrow：明天。
-1068,tonight,A2,adv.; noun,/təˈnaɪt/,今晚,tonight at;later tonight;for tonight,Shall we watch a film at home tonight?,今晚我们在家看电影好吗？,this evening,,to + night：今天夜里。
-1069,too,A2,adv.,/tuː/,也；太,too much;me too;too late,This coffee is too hot to drink right now.,这杯咖啡现在太烫，还不能喝。,also;excessively,,too：也，或“太……”。
-1070,tooth,A2,noun,/tuːθ/,牙齿,toothache;lose a tooth;tooth of,The dentist looked at my tooth carefully yesterday.,牙医昨天仔细看了我的那颗牙。,,,tooth：牙齿；复数 teeth。
-1071,top,A2,noun; adj.,/tɒp/,顶部；最上面的,on top of;at the top;top floor,Put the book on top of the other ones.,把书放在其他书上面。,peak;upper,bottom,top：最上面。
-1072,topic,A2,noun,/ˈtɒpɪk/,话题,topic of;change the topic;hot topic,The topic of today's lesson is the weather.,今天课的主题是天气。,subject;theme,,topic：谈论的题目。
-1073,total,A2,adj.; noun,/ˈtəʊtl/,总的；总计,in total;total number;total cost,The total cost of the trip was one hundred pounds.,这次旅行总费用是一百英镑。,entire;sum,partial,total：全部合计。
-1074,touch,A2,verb; noun,/tʌtʃ/,触摸,touch screen;get in touch;don't touch,Please do not touch the paintings in the museum.,请不要触摸博物馆里的画。,feel;contact,,touch：用手接触。
-1075,tour,A2,noun; verb,/tʊə(r)/,旅行,guided tour;go on a tour;tour of,We went on a guided tour of the old castle.,我们参加了古城堡的导游参观。,trip;circuit,,tour：巡回参观或旅行。
-1076,tourist,A2,noun,/ˈtʊərɪst/,游客,tourist attraction;tourist information;as a tourist,Many tourists visit this town every summer.,每年夏天许多游客来这座小镇。,visitor;traveller,,tour + ist：来旅游的人。
-1077,towel,A2,noun,/ˈtaʊəl/,毛巾,bath towel;hand towel;dry with a towel,Please dry your hands with a clean towel.,请用干净毛巾把手擦干。,,,towel：擦干用的布。
-1078,tower,A2,noun,/ˈtaʊə(r)/,塔,clock tower;tower block;tower over,We climbed the old clock tower on Saturday.,我们周六爬上了那座古老钟楼。,spire,,tower：高耸的塔状建筑。
-1079,town,A2,noun,/taʊn/,城镇,town centre;small town;in town,They live in a small town near the river.,他们住在河边一座小镇。,city;settlement,countryside,town：比 village 大、比 city 小。
-1080,toy,A2,noun,/tɔɪ/,玩具,toy shop;favourite toy;toy car,The little boy got a new toy car for Christmas.,小男孩圣诞节得到一辆新玩具车。,plaything,,toy：给孩子玩的东西。
-1081,traffic,A2,noun,/ˈtræfɪk/,交通,heavy traffic;traffic jam;traffic light,There was heavy traffic on the main road today.,今天主路上交通很拥堵。,vehicles,,traffic：路上来往的车辆。
-1082,train,A2,noun; verb,/treɪn/,火车；训练,by train;catch a train;train station,We will travel to Edinburgh by train tomorrow.,我们明天坐火车去爱丁堡。,rail service;coach,,train：火车，也可指训练。
-1083,training,A2,noun,/ˈtreɪnɪŋ/,培训,staff training;training course;in training,The new teachers are still in training this month.,新老师这个月仍在培训中。,practice;coaching,,train + ing：训练/培训。
-1084,travel,A2,verb; noun,/ˈtrævl/,旅行,travel to;travel by;travel around,I love to travel by train across the country.,我喜欢坐火车在全国旅行。,journey;trip,stay,travel：较长距离的出行。
-1085,tree,A2,noun,/triː/,树,under a tree;fruit tree;climb a tree,We sat under a big tree and had a rest.,我们坐在一棵大树下休息。,,,tree：有树干和树枝的植物。
-1086,trip,A2,noun,/trɪp/,旅行；短途出行,school trip;day trip;trip to,Our school trip to the museum is next Friday.,我们去博物馆的学校旅行定在下周五。,outing;journey,,trip：短途出行。
-1087,trouble,A2,noun,/ˈtrʌbl/,麻烦,in trouble;have trouble;trouble with,"If you have trouble with this question, ask me.",如果这道题有困难，就来问我。,problem;difficulty,,trouble：麻烦或困难。
-1088,true,A2,adj.,/truː/,真的,come true;true story;true friend,Her dream of becoming a doctor finally came true.,她成为医生的梦想终于实现了。,real;correct,false,true：真实、正确。
-1089,trust,A2,verb; noun,/trʌst/,信任,trust someone;trust in;build trust,You can trust him to keep your secret safe.,你可以信任他会保守你的秘密。,believe;rely on,distrust,trust：相信某人可靠。
-1090,try,A2,verb,/traɪ/,尝试,try to;try on;give it a try,Please try to finish your homework before dinner.,请尽量在晚饭前做完作业。,attempt;endeavour,give up,try：试着去做。
-1091,T-shirt,A2,noun,/ˈtiː ʃɜːt/,T恤,white T-shirt;wear a T-shirt;cotton T-shirt,He wore a white T-shirt and blue jeans today.,他今天穿了白 T 恤和蓝牛仔裤。,,,T-shirt：像字母 T 形状的短袖衫。
-1092,Tuesday,A2,noun,/ˈtjuːzdeɪ/,星期二,on Tuesday;Tuesday morning;next Tuesday,We have football practice on Tuesday afternoon.,我们周二下午有足球训练。,,,Tuesday：星期二。
-1093,turn,A2,verb; noun,/tɜːn/,转动；轮到,turn left;turn on;your turn,Please turn left at the next traffic lights.,请在下一个红绿灯左转。,rotate;become,,turn：转动，或轮到。
-1094,TV,A2,noun,/ˌtiːˈviː/,电视,watch TV;on TV;TV programme,How much TV do you watch every evening?,你每天晚上看多少电视？,television,,TV = television 的缩写。
-1095,twelve,A2,number,/twelv/,十二,twelve o'clock;twelve years;page twelve,Lunch starts at twelve o'clock at our school.,我们学校十二点开始午餐。,,,twelve：十二。
-1096,twenty,A2,number,/ˈtwenti/,二十,twenty minutes;about twenty;twenty years,The bus comes every twenty minutes in the morning.,早上公交车每二十分钟来一班。,,,twenty：二十。
-1097,twice,A2,adv.,/twaɪs/,两次,twice a week;twice as;think twice,I go swimming twice a week after school.,我每周游两次泳，在放学后。,two times,once,twice：两次。
-1098,two,A2,number,/tuː/,二,two o'clock;two people;page two,There are two apples left in the fruit bowl.,水果碗里还剩两个苹果。,,,two：数字 2。
-1099,type,A2,noun; verb,/taɪp/,类型；打字,type of;blood type;type a letter,What type of music do you usually listen to?,你通常听什么类型的音乐？,kind;sort,,type：类型，也可指标打字。
-1100,typical,A2,adj.,/ˈtɪpɪkl/,典型的,typical day;typical of;typical example,A typical school day starts at eight o'clock.,典型的一天上学从八点开始。,usual;characteristic,unusual,typical of：体现某事物的典型特征。
+1001,shoot,A2,verb; noun,/ʃuːt/,射击；拍摄,shoot a film;shoot at;photo shoot,They will shoot the final scene of the film tomorrow.,他们明天将拍摄这部电影的最后一场戏。,fire;film,,shoot：开枪射击，也常指拍摄镜头。
+1002,announce,A2,verb,/əˈnaʊns/,宣布；公布,announce a plan;announce the winner;officially announce,The school will announce the exam results on Friday.,学校将于周五公布考试成绩。,declare;proclaim,conceal,announce：向大家公开说出消息。
+1003,unless,A2,conj.,/ənˈles/,除非；如果不,unless you;not unless;unless otherwise,I will stay at home unless the rain stops soon.,除非雨很快停，否则我就待在家里。,except if,if,unless = if not：不……就不……。
+1004,independent,A2,adj.,/ˌɪndɪˈpendənt/,独立的；自主的,independent thinker;financially independent;independent study,She wants to live an independent life after university.,大学毕业后她想过独立的生活。,self-reliant;autonomous,dependent,in + dependent：不再依赖他人。
+1005,recommend,A2,verb,/ˌrekəˈmend/,推荐；建议,recommend a book;highly recommend;recommend that,Can you recommend a quiet café near the station?,你能推荐车站附近一家安静的咖啡馆吗？,suggest;advise,discourage,re + commend：再次把好东西推荐给你。
+1006,survey,A2,noun; verb,/ˈsɜːveɪ/,调查；问卷,carry out a survey;online survey;survey shows,The survey shows that most students prefer morning classes.,调查显示大多数学生更喜欢上午的课。,poll;questionnaire,,survey：全面地“看一看”并收集意见。
+1007,majority,A2,noun,/məˈdʒɒrəti/,大多数；多数,the majority of;in the majority;vast majority,The majority of voters supported the new plan.,大多数选民支持这项新计划。,most;bulk,minority,major（主要的）→ majority（大多数）。
+1008,stick,A2,verb; noun,/stɪk/,粘贴；坚持；棍子,stick to;stick with;walking stick,Please stick to the plan we agreed on last week.,请坚持我们上周商定的计划。,attach;adhere,detach,stick to：像贴纸一样牢牢粘住某个决定。
+1009,request,A2,noun; verb,/rɪˈkwest/,请求；要求,make a request;at your request;request help,She made a polite request for extra time on the test.,她礼貌地请求考试再多给一点时间。,ask;appeal,refuse,re + quest：再次提出请求。
+1010,rich,A2,adj.,/rɪtʃ/,富有的；丰富的,rich in;get rich;rich history,This soup is rich in vitamins and protein.,这道汤富含维生素和蛋白质。,wealthy;abundant,poor,rich：钱多，也可指内容“很丰厚”。
+1011,wind,A2,noun; verb,/wɪnd/; /waɪnd/,风；上发条；蜿蜒,strong wind;wind blows;wind up,A cold wind blew across the empty football field.,一阵寒风吹过空荡荡的足球场。,breeze;gale,calm,名词读 /wɪnd/（风）；动词“缠绕”常读 /waɪnd/。
+1012,none,A2,pron.; adv.,/nʌn/,没有一个；毫不,none of;none at all;almost none,None of the answers on the first page is correct.,第一页上的答案没有一个是对的。,no one;nothing,all,none = not one：一个也没有。
+1013,exchange,A2,noun; verb,/ɪksˈtʃeɪndʒ/,交换；交流,in exchange for;exchange ideas;foreign exchange,Students exchange ideas during the group discussion.,学生在小组讨论中交换想法。,swap;trade,keep,ex + change：彼此换过来。
+1014,budget,A2,noun; verb,/ˈbʌdʒɪt/,预算,on a budget;family budget;budget for,We need a careful budget for our summer holiday.,我们的暑假需要做一份仔细的预算。,allowance;plan,,budget：先算清能花多少钱。
+1015,famous,A2,adj.,/ˈfeɪməs/,著名的；出名的,famous for;world-famous;become famous,The city is famous for its old stone bridges.,这座城市以古老的石桥而闻名。,well-known;renowned,unknown,fame（名声）→ famous（有名的）。
+1016,blood,A2,noun,/blʌd/,血；血统,blood test;in the blood;blood pressure,The nurse took a blood sample from his arm.,护士从他手臂上采了血样。,lifeblood,,blood：身体里流动的红色液体。
+1017,appropriate,A2,adj.,/əˈprəʊpriət/,合适的；恰当的,appropriate for;appropriate time;appropriate behaviour,Please wear appropriate clothes for the formal dinner.,正式晚宴请穿合适的衣服。,suitable;proper,inappropriate,appropriate：放在这个场合正合适。
+1018,block,A2,noun; verb,/blɒk/,街区；堵塞；阻挡,road block;block the way;apartment block,A fallen tree blocked the road after the storm.,风暴过后，一棵倒下的树堵住了道路。,obstruct;chunk,clear,block：像一块木头横在路中间。
+1019,warm,A2,adj.; verb,/wɔːm/,温暖的；使变暖,warm weather;warm up;keep warm,Please warm up the soup before you serve it.,上汤之前请先把它热一热。,mild;heat,cold,warm：不烫也不冷，刚刚舒服。
+1020,count,A2,verb; noun,/kaʊnt/,数；计数；重要,count on;count the money;final count,You can count on her when the work gets difficult.,工作变难时，你可以指望她。,tally;matter,,count on：把人当可靠的“数”进去。
+1021,scene,A2,noun,/siːn/,场景；现场；景色,crime scene;behind the scenes;scene from,The opening scene of the play made everyone quiet.,这部戏的开场让所有人安静下来。,setting;sight,,scene：舞台或眼前的一幕画面。
+1022,writer,A2,noun,/ˈraɪtə(r)/,作家；作者,fiction writer;writer of;become a writer,Her favourite writer publishes a new novel every year.,她最喜欢的作家每年都出版一部新小说。,author;novelist,reader,write + er：写东西的人。
+1023,content,A2,noun; adj.,/ˈkɒntent/; /kənˈtent/,内容；满意的,table of contents;content with;online content,Please check the content of the email before you send it.,发送前请检查邮件的内容。,substance;satisfied,dissatisfied,名词读重音在前；形容词“满足”重音在后。
+1024,prevent,A2,verb,/prɪˈvent/,预防；阻止,prevent from;prevent an accident;help prevent,Washing hands carefully can prevent many infections.,认真洗手可以预防许多感染。,stop;avoid,cause,pre + vent：提前堵住，不让发生。
+1025,safe,A2,adj.,/seɪf/,安全的,safe place;feel safe;safe and sound,Keep your passport in a safe place during the trip.,旅行时把护照放在安全的地方。,secure;protected,dangerous,safe：没有危险的状态。
+1026,invite,A2,verb,/ɪnˈvaɪt/,邀请,invite someone to;invite friends;invite questions,They invited us to dinner at their new flat.,他们邀请我们去他们的新公寓吃晚饭。,ask;welcome,exclude,invite：把人“请进来”。
+1027,mix,A2,verb; noun,/mɪks/,混合；混合物,mix with;mix together;cake mix,Mix the flour and sugar in a large bowl.,在大碗里把面粉和糖混合。,blend;combine,separate,mix：把不同东西搅在一起。
+1028,element,A2,noun,/ˈelɪmənt/,要素；元素,key element;element of;chemical element,Teamwork is a key element of our success.,团队合作是我们成功的关键要素。,component;factor,whole,element：构成整体的基本零件。
+1029,effective,A2,adj.,/ɪˈfektɪv/,有效的；起作用的,effective way;highly effective;effective communication,This is an effective way to remember new words.,这是记住新词的有效方法。,successful;useful,ineffective,effect（效果）→ effective（有成效的）。
+1030,correct,A2,adj.; verb,/kəˈrekt/,正确的；纠正,correct answer;correct a mistake;politically correct,Please correct the spelling mistakes in your essay.,请改正作文里的拼写错误。,right;fix,wrong,correct：把错的改到对的位置。
+1031,medical,A2,adj.,/ˈmedɪkl/,医学的；医疗的,medical care;medical school;medical advice,He needs medical attention after the accident.,事故后他需要医疗护理。,clinical;health,,medic（医）→ medical（医学的）。
+1032,admit,A2,verb,/ədˈmɪt/,承认；准许进入,admit that;admit to;admit someone,He finally admitted that he had made a serious mistake.,他最终承认自己犯了一个严重错误。,confess;accept,deny,admit：把门打开，让事实进来。
+1033,beat,A2,verb; noun,/biːt/,击败；敲打；节拍,beat someone;heart beat;beat the record,Our team beat the champions in the final match.,我们的队伍在决赛中击败了冠军。,defeat;strike,lose,beat：打过去，也能指心脏的跳动。
+1034,telephone,A2,noun; verb,/ˈtelɪfəʊn/,电话；打电话,on the telephone;telephone call;telephone number,Please telephone the office if you will be late.,如果你会迟到，请打电话给办公室。,phone;call,,tele（远）+ phone（声音）＝远方的声音。
+1035,copy,A2,noun; verb,/ˈkɒpi/,副本；复制,make a copy;copy of;copy and paste,Please make a copy of your passport for the hotel.,请为酒店复印一份护照。,duplicate;imitate,original,copy：照着原件再做一份。
+1036,committee,A2,noun,/kəˈmɪti/,委员会,committee meeting;on the committee;steering committee,The committee will decide the winner next Monday.,委员会将在下周一决定获胜者。,board;panel,,commit（承诺）→ committee（共同承担责任的一群人）。
+1037,aware,A2,adj.,/əˈweə(r)/,意识到的；知道的,aware of;become aware;fully aware,Are you aware of the changes to the timetable?,你知道时刻表的变动吗？,conscious;informed,unaware,be aware of：心里清楚某件事。
+1038,advice,A2,noun,/ədˈvaɪs/,建议；劝告,give advice;ask for advice;piece of advice,My teacher gave me useful advice about essay writing.,老师就写作文给了我有用的建议。,guidance;tip,,advice 不可数；一条建议说 a piece of advice。
+1039,handle,A2,verb; noun,/ˈhændl/,处理；把手,handle a problem;door handle;handle with care,She knows how to handle difficult customers calmly.,她知道如何冷静地应对难缠的顾客。,manage;deal with,,把手叫 handle；处理问题就像握紧把手。
+1040,glass,A2,noun,/ɡlɑːs/,玻璃；玻璃杯,a glass of;glass window;broken glass,She poured a glass of water for the guest.,她给客人倒了一杯水。,tumbler,,glass：透明材质，也常指杯子。
+1041,trial,A2,noun,/ˈtraɪəl/,审判；试验,on trial;clinical trial;free trial,The new medicine is still in clinical trial.,这种新药仍在临床试验中。,test;hearing,,try（尝试）→ trial（试验/审理）。
+1042,stress,A2,noun; verb,/stres/,压力；强调,under stress;stress the point;reduce stress,Many students feel stress before important exams.,许多学生在重要考试前感到压力。,pressure;emphasise,calm,stress：心里的紧，也可“加重语气”。
+1043,radio,A2,noun,/ˈreɪdiəʊ/,收音机；广播,on the radio;radio station;listen to the radio,I heard the weather report on the radio this morning.,今天早上我在收音机上听到了天气预报。,broadcast;wireless,,radio：靠电波传来的声音。
+1044,administration,A2,noun,/ədˌmɪnɪˈstreɪʃn/,管理；行政；当局,school administration;public administration;under the administration,The university administration changed the registration rules.,学校行政部门更改了注册规定。,management;government,,administer（管理）→ administration（管理体系）。
+1045,complex,A2,adj.; noun,/ˈkɒmpleks/,复杂的；综合体,complex problem;sports complex;complex system,This maths problem looks simple but is quite complex.,这道数学题看起来简单，其实相当复杂。,complicated;intricate,simple,com + plex：许多部分缠在一起。
+1046,text,A2,noun; verb,/tekst/,文本；发短信,text message;send a text;in the text,Please read the text carefully before answering.,请仔细阅读课文后再回答。,passage;message,,text：写在纸上或屏幕上的文字。
+1047,context,A2,noun,/ˈkɒntekst/,语境；背景,in context;historical context;out of context,You need the full context to understand this sentence.,要理解这句话，你需要完整的语境。,setting;background,,con + text：文字周围一起出现的环境。
+1048,ride,A2,verb; noun,/raɪd/,骑；乘坐；旅程,ride a bike;give someone a ride;bus ride,He rides his bike to school every morning.,他每天早上骑自行车去学校。,cycle;journey,walk,ride：坐在或骑在交通工具上移动。
+1049,directly,A2,adv.,/dəˈrektli/,直接地；立刻,directly to;directly involved;speak directly,Please go directly to the meeting room after lunch.,午饭后请直接去会议室。,straight;immediately,indirectly,direct + ly：不拐弯、不绕路。
+1050,heavy,A2,adj.,/ˈhevi/,重的；大量的,heavy rain;heavy traffic;heavy bag,The box was too heavy for one person to carry.,这个箱子太重，一个人搬不动。,weighty;intense,light,heavy：沉甸甸，提起来费力。
+1051,remove,A2,verb,/rɪˈmuːv/,移除；去掉,remove from;remove a stain;remove barriers,Please remove your shoes before entering the house.,进屋前请脱掉鞋子。,take away;delete,add,re + move：再次移动走开＝移走。
+1052,conduct,A2,verb; noun,/kənˈdʌkt/; /ˈkɒndʌkt/,进行；行为,conduct a survey;conduct research;code of conduct,The team will conduct a survey among local residents.,该团队将在当地居民中开展一项调查。,carry out;behaviour,,动词重音在后；名词“行为”重音在前。
+1053,equipment,A2,noun,/ɪˈkwɪpmənt/,设备；装备,sports equipment;modern equipment;piece of equipment,The lab needs new equipment for the science project.,实验室需要这门科学项目的新设备。,gear;apparatus,,equip（装备）→ equipment（装备物）；不可数。
+1054,otherwise,A2,adv.; conj.,/ˈʌðəwaɪz/,否则；在其他方面,or otherwise;otherwise known as;act otherwise,Leave now; otherwise you will miss the last bus.,现在就走，否则你会错过末班车。,or else;differently,,other + wise：换成另一种做法，要不然……
+1055,title,A2,noun,/ˈtaɪtl/,标题；头衔；冠军,job title;book title;win the title,What is the title of the article you are reading?,你正在读的文章标题是什么？,name;heading,,title：写在最上方给东西起的名字。
+1056,extra,A2,adj.; adv.; noun,/ˈekstrə/,额外的；另外,extra time;extra money;at no extra cost,We need extra chairs for the guests tonight.,今晚我们需要给客人准备额外的椅子。,additional;spare,essential,extra：多出来的那一份。
+1057,executive,A2,noun; adj.,/ɪɡˈzekjətɪv/,高管；行政的,chief executive;executive decision;executive officer,The executive decided to expand the company overseas.,高管决定把公司拓展到海外。,manager;senior,,execute（执行）→ executive（负责执行决策的人）。
+1058,chair,A2,noun; verb,/tʃeə(r)/,椅子；主持,sit on a chair;chair a meeting;office chair,She will chair the meeting this afternoon.,今天下午她将主持会议。,seat;preside,,chair：能坐，也能“坐镇”主持会议。
+1059,expensive,A2,adj.,/ɪkˈspensɪv/,昂贵的,too expensive;expensive car;expensive habit,This hotel is too expensive for a short weekend trip.,这家酒店对短周末旅行来说太贵了。,costly;dear,cheap,expense（开销）→ expensive（花钱多的）。
+1060,sample,A2,noun; verb,/ˈsɑːmpl/,样品；抽样,free sample;blood sample;sample of,They gave us a free sample of the new chocolate.,他们给了我们新款巧克力的免费试吃装。,specimen;example,,sample：拿出一小份来代表全体。
+1061,sex,A2,noun,/seks/,性别；性,sex education;same sex;sex discrimination,The form asks you to state your age and sex.,表格要求你填写年龄和性别。,gender,,sex 在表格里常指 biological sex（性别）。
+1062,deliver,A2,verb,/dɪˈlɪvə(r)/,递送；发表；兑现,deliver a package;deliver a speech;deliver results,The postman will deliver the package tomorrow morning.,邮递员明天早上会把包裹送来。,bring;present,withhold,deliver：把东西或话“交到对方手里”。
+1063,video,A2,noun,/ˈvɪdiəʊ/,视频；录像,watch a video;video call;music video,We watched a short video about recycling in class.,我们在课堂上观看了一段关于回收的短视频。,clip;footage,,video：看得见的动态画面。
+1064,connection,A2,noun,/kəˈnekʃn/,连接；关系,internet connection;make a connection;in connection with,The internet connection was too weak to join the call.,网络连接太弱，无法加入通话。,link;relationship,separation,connect（连接）→ connection（连接关系）。
+1065,primary,A2,adj.,/ˈpraɪməri/,主要的；初级的,primary school;primary goal;primary care,Our primary goal this year is to improve reading skills.,我们今年的主要目标是提高阅读能力。,main;chief,secondary,prime（首要）→ primary（第一位的）。
+1066,weather,A2,noun,/ˈweðə(r)/,天气,bad weather;weather forecast;in all weathers,The weather will be cold and wet this weekend.,这个周末天气将又冷又湿。,climate;conditions,,weather：窗外每天变化的冷暖晴雨。
+1067,collect,A2,verb,/kəˈlekt/,收集；领取,collect data;collect stamps;collect from,Please collect your certificate from the office tomorrow.,请明天去办公室领取证书。,gather;pick up,scatter,col + lect：把散落的东西收拢到一起。
+1068,inform,A2,verb,/ɪnˈfɔːm/,通知；告知,inform someone of;keep informed;inform that,Please inform me of any change to the schedule.,日程若有任何变动，请通知我。,notify;tell,withhold,in + form：把信息“形成”并告知对方。
+1069,principle,A2,noun,/ˈprɪnsəpl/,原则；原理,basic principle;in principle;guiding principle,Honesty is an important principle in our company.,诚实是我们公司的一项重要原则。,rule;tenet,,注意与 principal（校长/主要的）拼写不同。
+1070,straight,A2,adj.; adv.,/streɪt/,直的；径直,straight line;go straight;straight away,Go straight along this road and turn left at the lights.,沿着这条路直走，到红绿灯处左转。,direct;upright,bent;curved,straight：不弯不拐。
+1071,appeal,A2,noun; verb,/əˈpiːl/,吸引力；上诉；呼吁,appeal to;make an appeal;broad appeal,The charity made an appeal for food and warm clothes.,该慈善机构呼吁捐赠食物和保暖衣物。,attract;plea,repel,appeal to：对某人有吸引力，或向其提出请求。
+1072,highly,A2,adv.,/ˈhaɪli/,高度地；非常,highly likely;highly successful;think highly of,She is highly skilled at solving technical problems.,她非常擅长解决技术问题。,extremely;greatly,slightly,high + ly：提到很高的程度。
+1073,trust,A2,noun; verb,/trʌst/,信任；信赖,trust someone;build trust;in trust,It takes time to build trust between new teammates.,新队友之间建立信任需要时间。,confidence;rely on,doubt,trust：把心交给对方保管。
+1074,wonderful,A2,adj.,/ˈwʌndəfl/,精彩的；极好的,wonderful time;wonderful news;absolutely wonderful,We had a wonderful time at the beach last Sunday.,上周日我们在海滩玩得很开心。,marvellous;excellent,awful,wonder（惊奇）→ wonderful（令人称奇的好）。
+1075,flat,A2,noun; adj.,/flæt/,公寓；平坦的,rent a flat;flat tyre;fall flat,They moved into a small flat near the university.,他们搬进了大学附近的一间小公寓。,apartment;level,hilly,英式 flat＝公寓；也指表面平坦。
+1076,absolutely,A2,adv.,/ˈæbsəluːtli/,绝对地；完全地,absolutely right;absolutely necessary;absolutely not,You are absolutely right about the meeting time.,关于开会时间你说得完全正确。,completely;totally,partly,absolute + ly：没有一点折扣。
+1077,flow,A2,noun; verb,/fləʊ/,流动；流畅,traffic flow;flow of;flow smoothly,The river flows quietly through the valley.,河水静静地流过山谷。,stream;run,stop,flow：像水一样不停向前。
+1078,fair,A2,adj.; noun; adv.,/feə(r)/,公平的；集市；相当,fair treatment;job fair;fair enough,The referee tried to make a fair decision for both teams.,裁判试图做出对双方都公平的判罚。,just;market,unfair,fair：尺子两端一样长＝公平。
+1079,additional,A2,adj.,/əˈdɪʃənl/,额外的；附加的,additional cost;additional information;additional support,There may be an additional charge for late booking.,逾期预订可能会有额外费用。,extra;further,basic,add（加上）→ additional（加出来的）。
+1080,responsible,A2,adj.,/rɪˈspɒnsəbl/,负责的；有责任心的,responsible for;responsible adult;socially responsible,Who is responsible for locking the classroom door?,谁负责锁教室的门？,accountable;reliable,irresponsible,response（回应）→ responsible：出了事要应声负责。
+1081,farm,A2,noun; verb,/fɑːm/,农场；耕种,on a farm;farm animals;organic farm,They grew vegetables and raised chickens on their farm.,他们在自己的农场种蔬菜、养鸡。,ranch;cultivate,,farm：田地与家畜所在的生产之地。
+1082,collection,A2,noun,/kəˈlekʃn/,收藏；收集；专辑,stamp collection;collection of;art collection,His collection of old stamps is worth a lot of money.,他收藏的旧邮票很值钱。,set;gathering,,collect → collection：收在一起的一批东西。
+1083,hang,A2,verb,/hæŋ/,悬挂；垂下,hang up;hang on;hang clothes,Please hang your coat on the hook by the door.,请把外套挂在门边的挂钩上。,suspend;drape,,hang：让物体挂着不落地。
+1084,negative,A2,adj.; noun,/ˈneɡətɪv/,负面的；否定的,negative effect;negative answer;test negative,Too little sleep can have a negative effect on study.,睡眠太少会对学习产生负面影响。,unfavourable;pessimistic,positive,neg-（否定）→ negative：带负号的那一面。
+1085,band,A2,noun,/bænd/,乐队；带子；波段,rock band;rubber band;join a band,Their band will play at the school festival tonight.,他们的乐队今晚将在学校节日演出。,group;strip,,band：一群人绑在一起奏乐，或一根带子。
+1086,relative,A2,noun; adj.,/ˈrelətɪv/,亲戚；相对的,close relative;relative to;relative importance,We visited our relatives during the Spring Festival.,春节期间我们去探望了亲戚。,relation;comparative,absolute;stranger,relate（关联）→ relative：有亲属关系的人。
+1087,tour,A2,noun,/tʊə(r)/; /tɔː(r)/,旅游；巡回；参观,go on a tour;tour guide;world tour,We went on a guided tour of the old castle.,我们参加了古城的导游团参观。,trip;journey,,tour：按路线走一圈看一看。
+1088,alternative,A2,noun; adj.,/ɔːlˈtɜːnətɪv/,替代方案；可供选择的,alternative to;alternative energy;have no alternative,"If the train is cancelled, what is the alternative?",如果火车取消了，还有什么替代方案？,option;substitute,,alter（改变）→ alternative：另一条可选之路。
+1089,software,A2,noun,/ˈsɒftweə(r)/,软件,software update;install software;software company,You need to update the software to fix the bug.,你需要更新软件来修复这个漏洞。,program;app,hardware,soft + ware：相对“硬件”的程序产品。
+1090,pair,A2,noun; verb,/peə(r)/,一对；配对,a pair of;pair up;in pairs,She bought a new pair of shoes for the interview.,她为面试买了一双新鞋。,couple;duo,single,pair：两只凑成一套。
+1091,ship,A2,noun; verb,/ʃɪp/,船；运送,cargo ship;ship goods;by ship,The company will ship the books within three days.,公司将在三天内把书发出。,vessel;send,,ship：大船；也可指把货发出去。
+1092,attitude,A2,noun,/ˈætɪtjuːd/,态度；看法,positive attitude;attitude towards;change attitude,A positive attitude helps you face difficulties better.,积极的态度能帮助你更好地面对困难。,outlook;manner,,attitude：心里对事情的站姿。
+1093,cheap,A2,adj.,/tʃiːp/,便宜的,cheap price;cheap hotel;dirt cheap,We found a cheap hotel near the train station.,我们在火车站附近找到一家便宜的旅馆。,inexpensive;low-cost,expensive,cheap：花钱少，但不一定差。
+1094,double,A2,adj.; verb; noun,/ˈdʌbl/,双倍的；加倍,double room;double the amount;on the double,Sales nearly doubled after the new advertisement.,新广告投放后销售额几乎翻倍。,twice;twin,single;halve,double：一变二。
+1095,leg,A2,noun,/leɡ/,腿；一段行程,broken leg;leg of a journey;stretch your legs,He hurt his leg while playing football yesterday.,他昨天踢足球时伤到了腿。,limb;stage,,leg：支撑身体走路的肢体。
+1096,observe,A2,verb,/əbˈzɜːv/,观察；遵守,observe carefully;observe rules;observe a festival,Scientists observe the birds for several weeks.,科学家连续几周观察这些鸟。,watch;notice,ignore,ob + serve：在旁仔细看，也可指守规矩。
+1097,sentence,A2,noun; verb,/ˈsentəns/,句子；判决,write a sentence;prison sentence;complete sentence,Please write a complete sentence for each answer.,请用完整句子回答每一题。,clause;judgement,,sentence：语法里的句子，也指法庭判刑。
+1098,print,A2,verb; noun,/prɪnt/,打印；印刷品,print out;in print;print a document,Please print two copies of the report for the meeting.,请为会议打印两份报告。,publish;copy,,print：把字迹压印到纸上。
+1099,progress,A2,noun; verb,/ˈprəʊɡres/; /prəˈɡres/,进步；进展,make progress;in progress;steady progress,She has made steady progress in spoken English.,她在英语口语方面取得了稳步进步。,advance;improvement,setback,pro + gress：向前迈步。
+1100,truth,A2,noun,/truːθ/,真相；真理,tell the truth;the truth is;search for truth,He finally told the truth about what happened.,他最终说出了事情的真相。,fact;reality,lie;falsehood,true → truth：真实的那一层。
