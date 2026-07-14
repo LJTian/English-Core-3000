@@ -22,7 +22,8 @@
   - 补充词（星期/数词等）：标为 A1
   - NAWL 补足：标为 B2
 - 音标：英式 IPA（`IPA_UK`）
-- 每批 100 词，共 30 个 Part
+- CSV / Excel / Anki：每批 100 词，共 30 个 Part
+- Markdown：每批 50 词，共 60 个 Part
 
 ## CSV 字段
 
@@ -34,9 +35,9 @@ Rank,Word,CEFR,PartOfSpeech,IPA_UK,Chinese,Collocation,Example_EN,Example_CN,Syn
 
 | 路径 | 说明 |
 |------|------|
-| `csv/Part01.csv` … `Part30.csv` | 分卷词表 |
+| `csv/Part01.csv` … `Part30.csv` | 分卷词表（每卷 100 词） |
 | `excel/English-Core-3000.csv` | 全书合并 CSV |
-| `markdown/English-Core-3000.md` | 全书 Markdown |
+| `markdown/Part01.md` … `Part60.md` | Markdown 分卷（每卷 50 词） |
 | `anki/English-Core-3000.txt` | Anki 导入（Tab 分隔） |
 
 ## 分布
